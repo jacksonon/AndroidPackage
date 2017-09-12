@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CocoaAndroid</string>
+    <string name="cocoa_name">安卓开发者：王家伟</string>
+    <string name="cocoa_version">v1.0</string>
+    <string name="cocoa_edittext">输入框</string>
+    <string name="cocoa_btn">发送</string>
+    <string name="title_activity_display_message">MessageSend</string>
+</resources>
